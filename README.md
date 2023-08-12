@@ -19,10 +19,8 @@
 
 # Flash-Chat
 
-![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/blob/master/Images/Flash%20Chat.gif)
 ![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/blob/master/Images/flash_chat_flutter_demo.gif)
 
 # Xylophone
 
 ![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/blob/master/Images/Xylophone.png)
-![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/blob/master/Images/xylophone-flutter.png)
