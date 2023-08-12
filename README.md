@@ -1,23 +1,25 @@
 ## Bitcoin Ticker
 
-![Finished App](http://i.giphy.com/l0HlQGzz2MQCKIBI4.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/Bitcoin.gif)
 
 ## Clima
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/Clima.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/clima-demo.gif)
 
 # Destini
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/Destini.gif)
 
 # Dicee
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Dicee%2B.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/Dicee.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/dicee-demo.gif)
 
 # Flash-Chat
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/Flash%20Chat.gif)
 
 # Xylophone
 
-<img src="https://github.com/londonappbrewery/Images/blob/master/Xylophone.png" width="400">
+![Finished App](https://github.com/RahulAggarwal1016/iOS_Portfolio/Images/Xylophone.png)
